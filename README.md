@@ -20,4 +20,5 @@ http://18.194.244.0/
 **A list of any third-party resources to complete this project**
 - Linux server hosted by amazon lightsail
 - The SSH key for login with username `grader` provided during project sumbission
+- Tutorial followed: http://flask.pocoo.org/docs/1.0/deploying/mod_wsgi/
 
